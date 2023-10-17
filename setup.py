@@ -12,6 +12,9 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url='https://github.com/AugustoVdp/setuptools_ejercicio.git',
+    project_urls = {
+        "Bug Tracker": "https://github.com/AugustoVdp/setuptools_ejercicio/issues"
+    },
     license='MIT',
     packages=['setuptools_ejercicios'],
     install_requires=['requests'],
