@@ -16,6 +16,6 @@ setuptools.setup(
         "Bug Tracker": "https://github.com/AugustoVdp/setuptools_ejercicio/issues"
     },
     license='MIT',
-    packages=['setuptools_ejercicios'],
+    packages=['setuptools_ejercicio'],
     install_requires=['requests'],
 )
