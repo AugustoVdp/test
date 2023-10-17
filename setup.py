@@ -11,7 +11,7 @@ setuptools.setup(
     description='Ejercicio de setuptools',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/institutohumai/humai_utils',
+    url='https://github.com/AugustoVdp/setuptools_ejercicio.git',
     license='MIT',
     packages=['setuptools_ejercicios'],
     install_requires=['requests'],

@@ -1,0 +1,1 @@
+from .setuptools_ejercicio import suma, suma_random
