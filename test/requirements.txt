@@ -1,1 +1,2 @@
 random
+git+https://github.com/AugustoVdp/setuptools_ejercicio.git
